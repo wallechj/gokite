@@ -17,7 +17,7 @@ cd gokite
 pip install -r requirements.txt
 ```
 
-打开walletAddress.txt填写钱包地址
+打开wallets.txt填写钱包地址
 
 ```bash
 0x........
