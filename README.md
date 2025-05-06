@@ -25,9 +25,8 @@ pip install -r requirements.txt
 proxies.txt（如果需要，可不填）
 
 ```bash
-http://1.2.3.4:8080@user:pass
 socks5://5.6.7.8:1080
-1.2.3.4:8080@user:pass
+http://user:pass@9.10.11.12:8080
 ```
 
 
