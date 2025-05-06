@@ -1,4 +1,4 @@
 requests
 colorama
 schedule
-PySocks
+fake-useragent
