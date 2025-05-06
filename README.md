@@ -31,3 +31,7 @@ python -m pip install -r requirements.txt
 ```bash
 python bot.py
 ```
+或
+```bash
+python3 bot.py
+```
