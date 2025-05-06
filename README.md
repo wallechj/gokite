@@ -16,10 +16,6 @@ cd gokite
 ```bash
 pip install -r requirements.txt
 ```
-或者
-```bash
-python -m pip install -r requirements.txt
-```
 
 打开walletAddress.txt填写钱包地址
 
